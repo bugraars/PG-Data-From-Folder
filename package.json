@@ -1,5 +1,5 @@
 {
-  "name": "pg-data-remover",
+  "name": "pg-data-from-folder",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
